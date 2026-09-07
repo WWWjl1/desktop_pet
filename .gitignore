@@ -14,3 +14,6 @@ local.properties
 *.iml
 .DS_Store
 /captures
+
+# temporary diagnostic artifact
+/logs.zip
