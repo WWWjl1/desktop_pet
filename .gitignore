@@ -1,0 +1,16 @@
+# Build outputs
+/build
+/app/build
+.gradle/
+# Local android sdk path
+local.properties
+# Local toolchain & processor (not part of the pushed repo)
+/tools/
+/processor/
+# Source photo (personal) - keep out of git; only the cutout is committed
+/source.jpg
+# IDE
+.idea/
+*.iml
+.DS_Store
+/captures
